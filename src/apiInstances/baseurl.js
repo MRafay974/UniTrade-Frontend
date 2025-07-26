@@ -1,4 +1,4 @@
-let url = "http://localhost:9000";
+let url = "https://unitradebackend.vercel.app";
 
 
 export const BACKEND_BASE_URL = url;
