@@ -1,23 +1,49 @@
-#📚 UniTrade – University Marketplace Platform
-A full-stack e-commerce application designed for university students to buy and sell products within their campus community.
-Built with React.js, Node.js, Express.js, and MongoDB, featuring secure authentication, Stripe payments, optimized cart, and an admin dashboard.
+🛒 UniTrade – University Marketplace Platform
+A full-stack e-commerce application designed for university students to buy and sell products within their campus community. Built with React.js, Node.js, Express.js, and MongoDB, featuring secure authentication, Stripe payments, optimized cart, and an admin dashboard.
+✨ Features
+🔐 Secure Authentication
 
-#🚀 Features
-✅ Secure Authentication – JWT-based login & role-based access control
+JWT-based login & role-based access control
 
-✅ Optimized Cart & Checkout – Real-time cart updates using React hooks & React.memo (reduced re-renders by 60%)
+🛍️ Optimized Cart & Checkout
 
-✅ Payment Integration – Stripe payment gateway (Card) & Cash-on-Delivery option
+Real-time cart updates using React hooks & React.memo (reduced re-renders by 60%)
 
-✅ Admin Dashboard – Approve/disapprove products, view analytics (users, products, orders, sales)
+💳 Payment Integration
 
-✅ Responsive UI – Mobile-first design using TailwindCSS for a modern look
+Stripe payment gateway (Card) & Cash-on-Delivery option
 
-#🛠 Tech Stack
-Frontend: React.js, TailwindCSS
+👨‍💼 Admin Dashboard
 
-Backend: Node.js, Express.js, MongoDB
+Approve/disapprove products, view analytics (users, products, orders, sales)
 
-Authentication: JWT (JSON Web Token)
+📱 Responsive UI
 
-Payment Gateway: Stripe
+Mobile-first design using TailwindCSS for a modern look
+
+🛠️ Tech Stack
+Frontend
+
+React.js
+TailwindCSS
+
+Backend
+
+Node.js
+Express.js
+MongoDB
+
+Authentication
+
+JWT (JSON Web Token)
+
+Payment Gateway
+
+Stripe
+
+🚀 Getting Started
+Prerequisites
+
+Node.js (v14 or higher)
+MongoDB
+Stripe account for payment processing
